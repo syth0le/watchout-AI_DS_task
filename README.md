@@ -11,8 +11,10 @@
 Структура выполненной работы выглядит следующим образом:
 
 Описательная статистика и все необходимые для нее вычисления выполнены в файле [1-part(EDA)](https://github.com/syth0le/watchout-AI_DS_task/blob/master/1.EDA.ipynb), 
-Все необходимые вычисления, связанные с подсчетом и лематизацией слов провел в файлах [filtering]() и
-[count](), Вынес решение данных подзадач в отдельные файлы, так как ОЗУ и компьютер не справлялся с Jupiter Notebook, 
+Все необходимые вычисления, связанные с подсчетом и лематизацией слов провел в файлах 
+[filtering](https://github.com/syth0le/watchout-AI_DS_task/blob/master/words_refiltering.py) и
+[count](https://github.com/syth0le/watchout-AI_DS_task/blob/master/count.py), 
+Вынес решение данных подзадач в отдельные файлы, так как ОЗУ и компьютер не справлялся с Jupiter Notebook, 
 а запуская с командной строки, все работало без проблем.
 выявление наиболее значимых N-грамм представлено в файле [2-part(N-grams)](https://github.com/syth0le/watchout-AI_DS_task/blob/master/2.N_Grams.ipynb)
 ну и ответы на теорию можете найти здесь [Theory](https://github.com/syth0le/watchout-AI_DS_task/blob/master/answers.txt).
