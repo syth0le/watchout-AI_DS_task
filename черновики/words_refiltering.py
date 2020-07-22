@@ -14,7 +14,6 @@ stat_file = 'test_data_rus.txt'
 lenta = 'lenta-ru-news.csv'
 data_file = 'temptig.txt'
 datas = 'words_count.txt'
-test = 'zhopa.txt'
 
 n = time.time()
 morph = pymorphy2.MorphAnalyzer()
