@@ -1,8 +1,8 @@
 venv/
 .idea/
 lenta-ru-news.csv
-words_count.txt
 *grams.txt
 temptig.txt
-words_count_1000*
-words_count.txt
+words_count*
+count.txt
+
