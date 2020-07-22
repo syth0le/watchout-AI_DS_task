@@ -19,7 +19,7 @@
 выявление наиболее значимых N-грамм представлено в файле [2-part(N-grams)](https://github.com/syth0le/watchout-AI_DS_task/blob/master/2.N_Grams.ipynb)
 ну и ответы на теорию можете найти здесь [Theory](https://github.com/syth0le/watchout-AI_DS_task/blob/master/answers.txt).
 
-* Перед проверкой задания, чтобы не ждать работы алгоритма загрузите необходимые файлы с [Яндекс.Диска]().
+* Перед проверкой задания, чтобы не ждать работы алгоритма загрузите необходимые файлы с [Яндекс.Диска](https://yadi.sk/d/l01lCltqv2ip2Q).
 
 ## How Files Work
 
@@ -30,7 +30,7 @@
 Чтобы не хранить в памяти такие обьемы данных, и не загружать ОЗУ и процессор под 100%, было принято именно такое решение.
 
 Если вы не хотите ждать какое то время, пока алгоритм сработает, то скачайте временные файлы с данного 
-[Яндекс.Диска](.). Тут находятся все временные файлы, которые я заранее решил посчитать.
+[Яндекс.Диска](https://yadi.sk/d/l01lCltqv2ip2Q). Тут находятся все временные файлы, которые я заранее решил посчитать.
 
 Также для дополнительной информации загружаю в репозиторий [черновики](https://github.com/syth0le/watchout-AI_DS_task/tree/master/%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA%D0%B8) для полной иллюстрации хода мыслей при решении задания.
 
@@ -39,7 +39,7 @@ U can find me in these social networks:
 * [VK](https://vk.com/sythole)
 * [LinkedIn](https://www.linkedin.com/in/daniil-cherednichenko-4294141b0/)
 * [Instagram](https://www.instagram.com/syth0le/)
-*  Mail: chdan565@gmail.com
+*  chdan565@gmail.com
 
 
 ## Contributing
